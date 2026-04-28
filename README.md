@@ -35,3 +35,5 @@ Note: Ensure your package.json dev script is set to port 5174 to avoid localhost
 The application uses a "Glassmorphism" design style for a modern, professional look. When the Audio Button is clicked:The SpeechSynthesis API is triggered in the native language.The Avatar image smoothly scales up to 1.25x its size.A glowing accent border appears around the assistant to indicate active speaking.
 # 🤝 Accessibility Mission.
 Our goal is to ensure that language and physical disabilities are no longer a barrier to digital information. By converting complex data into native-tongue audio, we provide a pathway for every user to interact with AI with dignity and ease.
+# Project File : 
+https://drive.google.com/drive/folders/1p_y5fT7SuuophdLqFb6yCs6j-j-mmwwz?usp=sharing
